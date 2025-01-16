@@ -3,13 +3,17 @@
 ## Prerequisite
 Python 3.10.0
 
-## Virtualenviroment
+## Virtual Enviroment
+### Create Virtual Environment
 ```python -m venv venv```
 
-### cmd
+### Activate Virtual Environment
+- cmd
+
 ```venv\Scripts\activate```
 
-### shell
+- shell
+
 ```source ./venv/Scripts/activate```
 
 ## Dependencies
