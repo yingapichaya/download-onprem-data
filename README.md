@@ -9,4 +9,4 @@ Python 3.10.0
 ```venv\Scripts\activate```
 
 ## Dependencies
-```pip 3 install -r requirements.txt```
+```pip install -r requirements.txt```
